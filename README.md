@@ -25,3 +25,7 @@ and generate strong passwords instantly.
 - **Custom password strength algorithm**
 
 ---
+
+![WhatsApp Image 2025-10-05 at 17 17 52](https://github.com/user-attachments/assets/4c629f12-dab3-44e8-8a7d-80f1a13b2870)
+
+
