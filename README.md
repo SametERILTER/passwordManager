@@ -26,6 +26,24 @@ and generate strong passwords instantly.
 
 ---
 
-![WhatsApp Image 2025-10-05 at 17 17 52](https://github.com/user-attachments/assets/4c629f12-dab3-44e8-8a7d-80f1a13b2870)
+<h2 align="center">📱 App Screenshots</h2>
 
+<p align="center">
+  <img src="./assets/screenshots/homeScreen.jpeg" width="250">
+  <img src="./assets/screenshots/allPasswords.jpeg" width="250">
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/generatePassword.jpeg" width="250">
+  <img src="./assets/screenshots/strongPasswords.jpeg" width="250">
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/biometric.jpeg" width="250">
+  <img src="./assets/screenshots/fingerPrint.jpeg" width="250">
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/moreInfo.jpeg" width="250">
+</p>
 
